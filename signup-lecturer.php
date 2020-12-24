@@ -53,63 +53,70 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  
 
-    <!-- ======= F.A.Q Section ======= -->
-    <section id="faq" class="faq section-bg">
-      <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
-          <h2>Minimum recruitment</h2>
-          <p>Persyaratan Minimum</p>
-        </div>
+  <!-- ======= F.A.Q Section ======= -->
+  <section id="faq" class="faq section-bg">
+    <div class="container">
 
-        <div class="faq-list">
-          <ul>
-            <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">Apakah Anda memiliki gelar sarjana atau lebih di bidang subjek yang ingin Anda ajar? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-1" class="collapse show" data-parent=".faq-list">
-               <div class="radio-inline" style="margin-left: 30px;">
-                  <label><input type="radio" name="setuju1" value="Ya"> Ya</label>
-                </div>
-                <div class="radio-inline">
-                  <label><input type="radio" name="setuju1" style="margin-left: 30px;" value="Tidak"> Tidak</label>
-                </div>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">Dapatkah Anda mendedikasikan rata-rata sekitar 15 jam per minggu untuk memfasilitasi siswa dalam proses pembelajaran dengan memantau aktivitas individu dan pembelajaran sebaya dan menilai pencapaian pembelajaran, sering memeriksa kursus, tetapi setidaknya sekali setiap 48 jam dan secara teratur memeriksa dan menanggapi email siswa dan administrasi? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-               <div id="faq-list-2" class="collapse show" data-parent=".faq-list">
-               <div class="radio-inline" style="margin-left: 30px;">
-                  <label><input type="radio" name="setuju2" value="Setuju1"> Setuju</label>
-                </div>
-                <div class="radio-inline">
-                  <label><input type="radio" name="setuju2" style="margin-left: 30px;" value="Tidak1"> Tidak Setuju</label>
-                </div>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">
-              Anda setuju untuk mendukung misi kami untuk membuka gerbang pendidikan tinggi bagi semua pelamar yang memenuhi syarat dan memastikan tidak ada siswa yang tertinggal. Dengan setuju untuk menjadi sukarelawan, apakah Anda setuju untuk menerima honorarium token untuk layanan Anda? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="faq-list-3" class="collapse show" data-parent=".faq-list">
-               <div class="radio-inline" style="margin-left: 30px;">
-                  <label><input type="radio" name="setuju3" value="Setuju2"> Setuju</label>
-                </div>
-                <div class="radio-inline">
-                  <label><input type="radio" name="setuju3" style="margin-left: 30px;" value="Tidak2"> Tidak Setuju</label>
-                </div>
-              </div>
-            </li>
-          </ul>
-          <div class="text-center"><button type="submit">Send Message</button></div>
-        </div>
-
+      <div class="section-title" data-aos="fade-up">
+        <h2>Minimum recruitment</h2>
+        <p>Persyaratan Minimum</p>
       </div>
-    </section><!-- End F.A.Q Section -->
 
-   
+      <div class="faq-list">
+        <ul>
+          <li data-aos="fade-up">
+            <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">Apakah Anda memiliki gelar sarjana atau lebih di bidang subjek yang ingin Anda ajar? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-1" class="collapse show" data-parent=".faq-list">
+              >
+              <div class="radio-inline" style="margin-left: 30px;">
+                <label><input type="radio" name="setuju1" value="Ya"> Ya</label>
+              </div>
+              <div class="radio-inline">
+                <label><input type="radio" name="setuju1" style="margin-left: 30px;" value="Tidak"> Tidak</label>
+              </div>
+
+            </div>
+          </li>
+
+          <li data-aos="fade-up" data-aos-delay="100">
+            <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">Dapatkah Anda mendedikasikan rata-rata sekitar 15 jam per minggu untuk memfasilitasi siswa dalam proses pembelajaran dengan memantau aktivitas individu dan pembelajaran sebaya dan menilai pencapaian pembelajaran, sering memeriksa kursus, tetapi setidaknya sekali setiap 48 jam dan secara teratur memeriksa dan menanggapi email siswa dan administrasi? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-2" class="collapse show" data-parent=".faq-list">
+
+              <div class="radio-inline" style="margin-left: 30px;">
+                <label><input type="radio" name="setuju2" value="Setuju1"> Setuju</label>
+              </div>
+              <div class="radio-inline">
+                <label><input type="radio" name="setuju2" style="margin-left: 30px;" value="Tidak1"> Tidak Setuju</label>
+              </div>
+              >
+
+            </div>
+          </li>
+
+          <li data-aos="fade-up" data-aos-delay="200">
+            <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">
+              Anda setuju untuk mendukung misi kami untuk membuka gerbang pendidikan tinggi bagi semua pelamar yang memenuhi syarat dan memastikan tidak ada siswa yang tertinggal. Dengan setuju untuk menjadi sukarelawan, apakah Anda setuju untuk menerima honorarium token untuk layanan Anda? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-3" class="collapse show" data-parent=".faq-list">
+
+              <div class="radio-inline" style="margin-left: 30px;">
+                <label><input type="radio" name="setuju3" value="Setuju2"> Setuju</label>
+              </div>
+              <div class="radio-inline">
+                <label><input type="radio" name="setuju3" style="margin-left: 30px;" value="Tidak2"> Tidak Setuju</label>
+              </div>
+
+            </div>
+          </li>
+        </ul>
+        <div class="text-center"><button type="submit">Send Message</button></div>
+      </div>
+
+    </div>
+  </section><!-- End F.A.Q Section -->
+
+
 
   </main><!-- End #main -->
 
@@ -206,17 +213,30 @@
   <script src="assets/js/main.js"></script>
 
   <script type="text/javascript">
-    $(document).ready(function() {
-      var select1 = $('input[name="setuju1"]:checked').val();
-      var select2 = $('input[name="setuju2"]:checked').val();
-      var select3 = $('input[name="setuju3"]:checked').val();
+    document.addEventListener("DOMContentLoaded", function(event) {
 
-      if (select1 == "Ya" and select2 == "Setuju1" and select3 == "Setuju2") {
-        alert("Persyaratan di izinkan");
-      }
-      else {
-        alert("Gagal");
-      }
+      let select1 = document.querySelectorAll('[name="setuju1"]')[0];
+      let select2 = document.querySelectorAll('[name="setuju2"]')[0];
+      let select3 = document.querySelectorAll('[name="setuju3"]')[0];
+
+      radioBtn = [select1, select2, select3]
+
+
+      radioBtn.forEach(element => {
+        element.addEventListener("change", () => {
+
+          console.log("radio1" + select1.checked);
+          console.log("radio2" + select2.checked);
+          console.log("radio3" + select3.checked);
+
+          if (select1.checked && select2.checked && select3.checked) {
+            alert("Persyaratan di izinkan");
+          } else {
+            // alert("Gagal");
+          }
+        })
+
+      });
     });
   </script>
 
